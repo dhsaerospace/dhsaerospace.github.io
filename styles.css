@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f2fa;
+}
+h1 {
+    color: #1f1e33;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+p {
+    color: #48434f;
+    font-family: 'Quicksand', sans-serif;
+}
+img {
+    size: 100px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+}
+  
